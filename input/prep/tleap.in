@@ -1,0 +1,5 @@
+source leaprc.protein.ff14SB
+source leaprc.water.tip3p
+pdb = loadpdb kpc2_no_hydrogens.pdb
+savepdb pdb kpc2.pdb
+quit
