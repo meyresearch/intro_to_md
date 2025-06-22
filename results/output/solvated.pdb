@@ -1,4 +1,4 @@
-REMARK   1 CREATED WITH OPENMM 8.1.1, 2025-06-21
+REMARK   1 CREATED WITH OPENMM 8.3, 2025-06-21
 CRYST1   74.051   74.051   74.051  90.00  90.00  90.00 P 1           1 
 ATOM      1  N   HIS A   1      -8.368   6.913  23.885  1.00  0.00           N  
 ATOM      2  H   HIS A   1      -8.689   7.868  23.950  1.00  0.00           H  
